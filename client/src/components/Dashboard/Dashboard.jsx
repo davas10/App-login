@@ -20,6 +20,7 @@ export default function PageNotFound() {
       <Toaster position="top-center" reverseOrder={false} toastOptions={{ duration: 500}}></Toaster>
 
       <div className={styles.pageImg}>INICIAMOS</div>
+      
 
 
       <div className="text-center py-4">
